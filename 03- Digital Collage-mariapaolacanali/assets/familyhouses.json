@@ -1,0 +1,86 @@
+{
+  "description": " houses where my family has lived/is living, from my grandparents to mine ",
+  "FamilyHouses": [
+    {
+      "Family": "Mansani-Locci",
+      "House": "main house",
+      "Address": "Via Zara 14",
+      "City": "Cecina (LI)",
+      "MoveInYear": "1927",
+      "SeniorMembers": ["Luigi", "Ottavia"],
+      "JuniorMembers": "Francesco-Enzo"
+    },
+    {
+      "Family": "Biegi-Gani",
+      "House": "main house",
+      "Address": "Via Buozzi 8",
+      "City": "Cecina (LI)",
+      "MoveInYear": "1930",
+      "SeniorMembers": ["Aristide", "Carlina"],
+      "JuniorMembers": ["Anna", "Marcella"]
+    },
+    {
+      "Family": "Canali-Conforti",
+      "House": "summer house",
+      "Address": "Strada Provinciale 1",
+      "City": "Sala Baganza (PR)",
+      "MoveInYear": "1932",
+      "SeniorMembers": ["Francesco", "Aida,"],
+      "JuniorMembers": ["Carlo", "Guido", "Pietro", "Maria Clotilde"]
+    },
+    {
+      "Family": "Canali-Conforti",
+      "House": "winter house",
+      "Address": "Via Smeraldi 5",
+      "City": "Parma",
+      "MoveInYear": "1933",
+      "SeniorMembers": ["Francesco", "Aida,"],
+      "JuniorMembers": ["Carlo", "Guido", "Pietro", "Maria Clotilde"]
+    },
+    {
+      "Family": "Fanti-Caraffini",
+      "House": "main house",
+      "Address": "Via Torelli 5",
+      "City": "Parma",
+      "MoveInYear": "1937",
+      "SeniorMembers": ["Ugo", "Orestina"],
+      "JuniorMembers": "Paola"
+    },
+    {
+      "Family": "Canali-Fanti",
+      "House": "first house (they moved to Via Smeraldi in 1970)",
+      "Address": "Via Torelli 5",
+      "City": "Parma",
+      "MoveInYear": "1962",
+      "SeniorMembers": ["Pietro", " Paola"],
+      "JuniorMembers": ["Francesco", "Ugo"]
+    },
+    {
+      "Family": "Canali-Fanti",
+      "House": "second house: they came from Via Torelli. They also bought an house in Castrignano (PR) where they like to spend the summer",
+      "Address": "Via Smeraldi 5",
+      "City": "Parma",
+      "MoveInYear": "1970",
+      "SeniorMembers": ["Pietro", " Paola"],
+      "JuniorMembers": ["Francesco", "Ugo"]
+    },
+    {
+      "Family": "Mansani-Biegi",
+      "House": "main house: they also had one at the seaside",
+      "Address": "Piazzale dei Servi 3",
+      "City": "Parma",
+      "MoveInYear": "1970",
+      "SeniorMembers": ["Francesco-Enzo", "Anna"],
+      "JuniorMembers": ["Luigi", "Francesca"]
+    },
+    {
+      "Family": "Canali-Mansani",
+      "House": "my home",
+      "Address": "Via Torelli 5",
+      "City": "Parma",
+      "MoveInYear": "1994",
+      "SeniorMembers": ["Francesco", "Francesca"],
+      "JuniorMembers": ["Anna", "Maria Paola(Me)"]
+    }
+  ]
+}
